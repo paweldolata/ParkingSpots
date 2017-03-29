@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Parking Spots</string>
+    <string name="tvQuestion">Najbliższy parking z wolnymi miejscami</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_parkings_list">ParkingsList</string>
+    <string name="tvParkings">Lista parkingów</string>
+    <string name="title_activity_list_item_detail">ListItemDetailActivity</string>
+    <string name="viewAllData">View all data</string>
+    <string name="goToParkingList">Go to parking list</string>
+</resources>
